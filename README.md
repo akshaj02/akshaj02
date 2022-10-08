@@ -27,8 +27,10 @@
   <li><a href="mailto:akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
   <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
 </ul>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!---
