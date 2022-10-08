@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h2> 👋 Hi, I’m Akshaj Murhekar </h2>
 <p>:mortar_board: I'm currently a <strong>Junior</strong> in Computer Science at the University of Texas at Arlington</p>
 <p>I'm actively looking for internship oppurtunities for the Summer of 2023.</p>
@@ -5,7 +7,7 @@
 
 <h2> :cookie: Technical Skills </h2>
   <ul>
-  <li>Java</li>
+  <li class="skill-icon devicon-javascript-plain">Java</li>
   <li>Python</li>
   <li>JavaScript</li>
   <li>Mongo</li>
