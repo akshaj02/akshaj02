@@ -2,19 +2,25 @@
 
 <h2>👋 Hi, I’m Akshaj Murhekar </h2>
 <p>👨‍🎓 I'm currently a <strong>Junior</strong> in Computer Science at the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank">University of Texas at Arlington</a></p>
-<p>I'm actively looking for internship oppurtunities for the Summer of 2023.</p>
-<p>I'm always doing new projects. If you have an idea feel free to reach out!</p>
+<ul>
+  <li>I'm actively looking for internship oppurtunities for the Summer of 2023.</li>
+  <li>I'm always doing new projects. If you have an idea feel free to reach out!</li>
+  <li>I'm also doing certifications on the side</li>
+    <ul>
+      <li>AWS Certified Cloud Practitioner</li>
+      <li>Agile with Atlassian Jira</li>
+    </ul>
+</ul>
 
 <h2>🛠 Technical Skills </h2>
   <ul>
-  <li class="skill-icon devicon-javascript-plain">Java</li>
+  <li>Java</li>
   <li>Python</li>
-  <li>JavaScript</li>
-  <li>Mongo</li>
-  <li>Postman</li>
+  <li>Full Stack Development</li>
+  <li>Android Development</li>
+  <li>SQL</li>
   </ul>
   
-
 <h2>📬 Contact me</h2>
 <ul>
   <li><a href="mailto:murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
