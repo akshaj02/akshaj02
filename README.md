@@ -29,14 +29,13 @@
 </ul>
 <h2></h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues" />
-</a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshaj02)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
