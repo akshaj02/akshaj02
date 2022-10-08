@@ -12,11 +12,14 @@
   <li>JavaScript</li>
   <li>Mongo</li>
   <li>Postman</li>
-  <li></li>
   </ul>
   
 
-<h2>📫 How to reach me</h2>
+<h2>📫 Contact me</h2>
+<ul>
+  <li><a mailto="murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
+  <li><a mailto="akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
 
 <!---
 akshaj02/akshaj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
