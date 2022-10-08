@@ -1,6 +1,6 @@
-<h1> 👋 Hi, I’m Akshaj Murhekar </h1>
-:mortar_board: I'm currently a Junior in Computer Science at the University of Texas at Arlington
-- 🌱 I’m currently learning ...
+<h2> 👋 Hi, I’m Akshaj Murhekar </h2>
+:mortar_board: I'm currently a <strong>Junior<strong> in Computer Science at the University of Texas at Arlington
+<h2> 🌱 Technical Skills </h2>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
