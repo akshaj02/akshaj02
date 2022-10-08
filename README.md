@@ -3,7 +3,7 @@
 <p>I'm actively looking for internship oppurtunities for the Summer of 2023.</p>
 <p>I'm always doing new projects. If you have an idea feel free to reach out!</p>
 
-<h2> 🌱 Technical Skills </h2>
+<h2> :cookie: Technical Skills </h2>
   
 
 <h2>📫 How to reach me</h2>
