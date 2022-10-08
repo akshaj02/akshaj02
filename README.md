@@ -4,6 +4,14 @@
 <p>I'm always doing new projects. If you have an idea feel free to reach out!</p>
 
 <h2> :cookie: Technical Skills </h2>
+  <ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Mongo</li>
+  <li>Postman</li>
+  <li></li>
+  </ul>
   
 
 <h2>📫 How to reach me</h2>
