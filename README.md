@@ -28,6 +28,7 @@
   <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
 </ul>
 <h2></h2>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
