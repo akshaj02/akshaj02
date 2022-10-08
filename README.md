@@ -28,7 +28,7 @@
   <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
 </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 akshaj02/akshaj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
