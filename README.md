@@ -30,10 +30,11 @@
 <table>
   <tr>
     <th>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)</th>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)</th></tr>
    <tr>
      <th>
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </th>
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </th></tr>
+  </table>
 
 <!---
 akshaj02/akshaj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
