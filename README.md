@@ -5,7 +5,7 @@
 <ul>
   <li>I'm actively looking for internship oppurtunities for the Summer of 2023.</li>
   <li>I'm always doing new projects. If you have an idea feel free to reach out!</li>
-  <li>I'm also doing certifications on the side</li>
+  <li>I'm also doing certifications on the side:</li>
     <ul>
       <li>AWS Certified Cloud Practitioner</li>
       <li>Agile with Atlassian Jira</li>
