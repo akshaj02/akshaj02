@@ -35,8 +35,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akshaj02)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 akshaj02/akshaj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
