@@ -21,7 +21,7 @@
   <li>SQL</li>
   </ul>
   
-<h2>📬 Contact me</h2>
+<h2>📬 Contact Me</h2>
 <ul>
   <li><a href="mailto:murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
   <li><a href="mailto:akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
