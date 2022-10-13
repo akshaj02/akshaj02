@@ -30,7 +30,7 @@
 <h2></h2>
 
 
-[!(https://github-readme-stats.vercel.app/api?username=akshaj02&show_icons=true&theme=dark&hide=issues)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
