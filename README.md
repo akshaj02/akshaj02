@@ -1,6 +1,14 @@
 # 💫 About Me:
-I'm actively looking for internship oppurtunities for the Summer of 2023.<br>I'm always doing new projects. If you have an idea feel free to reach out!<br>I'm also doing certifications on the side:<br>AWS Certified Cloud Practitioner<br>Agile with Atlassian Jira
-
+<p>I'm currently a <strong>Junior</strong> in Computer Science at the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank">University of Texas at Arlington</a></p>
+<ul>
+  <li>I'm actively looking for internship oppurtunities for the Summer of 2023.</li>
+  <li>I'm always doing new projects. If you have an idea feel free to reach out!</li>
+  <li>I'm also doing certifications on the side:</li>
+    <ul>
+      <li>AWS Certified Cloud Practitioner</li>
+      <li>Agile with Atlassian Jira</li>
+    </ul>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaj-murhekar/) 
