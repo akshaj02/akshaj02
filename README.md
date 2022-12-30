@@ -1,41 +1,16 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-<h2>👋 Hi, I’m Akshaj Murhekar </h2>
-<p>I'm currently a <strong>Junior</strong> in Computer Science at the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank">University of Texas at Arlington</a></p>
-<ul>
-  <li>I'm actively looking for internship oppurtunities for the Summer of 2023.</li>
-  <li>I'm always doing new projects. If you have an idea feel free to reach out!</li>
-  <li>I'm also doing certifications on the side:</li>
-    <ul>
-      <li>AWS Certified Cloud Practitioner</li>
-      <li>Agile with Atlassian Jira</li>
-    </ul>
-</ul>
-
-<h2>🛠 Technical Skills </h2>
-  <ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Full Stack Development</li>
-  <li>Android Development</li>
-  <li>SQL</li>
-  </ul>
-  
-<h2>📬 Contact Me</h2>
-<ul>
-  <li><a href="mailto:murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
-  <li><a href="mailto:akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
-  <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
-</ul>
-<h2></h2>
+# 💫 About Me:
+I'm actively looking for internship oppurtunities for the Summer of 2023.<br>I'm always doing new projects. If you have an idea feel free to reach out!<br>I'm also doing certifications on the side:<br>AWS Certified Cloud Practitioner<br>Agile with Atlassian Jira
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaj02&theme=dark)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshaj-murhekar/) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&layout=compact&theme=dark&langs_count=7)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akshaj02&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshaj02&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<!---
-akshaj02/akshaj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=akshaj02&icon=8&color=5)](https://visitcount.itsvg.in)
