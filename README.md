@@ -16,9 +16,9 @@
 ## 🌐 Contact Me
 
 <ul>
-  <li><a mailto="murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
-  <li><a href="https://www.linkedin.com/in/akshaj-murhekar/" target="_blank">LinkedIn</a></li>
-  <li><a mailto="akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
+  <li><a href="mailto:murhekar.akshaj@gmail.com">murhekar.akshaj@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/akshaj-murhekar/">LinkedIn</a></li>
+  <li><a href="mailto:akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=akshaj02&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
