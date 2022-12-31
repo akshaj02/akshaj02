@@ -21,7 +21,8 @@
   <li><a href="mailto:akshaj.murhekar@mavs.uta.edu">akshaj.murhekar@mavs.uta.edu</a></li>
 </ul>
 
-<hr>
+## 
+
 ![](https://github-readme-stats.vercel.app/api?username=akshaj02&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshaj02&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaj02&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
