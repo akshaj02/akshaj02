@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Akshaj Murhekar
 <p>I'm currently a <strong>Senior</strong> in Computer Science at the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank">University of Texas at Arlington</a></p>
 <ul>
-  <li>I'm actively looking for internship oppurtunities for the Summer of 2023.</li>
+  <li>I'm actively looking for full time oppurtunities starting Summer of 2024.</li>
   <li>I'm always doing new projects. If you have an idea feel free to reach out!</li>
   <li>I'm also doing certifications on the side:</li>
     <ul>
