@@ -1,5 +1,7 @@
 # I'm Akshaj
 
+--- 
+
 Grad student @ UT Austin. I work on machine learning systems — mostly stuff that makes large language models faster, less memory-hungry, and slightly less cursed to deploy.
 
 Right now I'm deep into efficient transformer inference: KV caching, custom attention mechanisms, benchmarking weird ideas from arXiv. Occasionally implement them. Sometimes they even work.
